@@ -1,0 +1,26 @@
+{
+  "name": "thr0w-video",
+  "description": "The Thr0w Project is about building digital signage. This package is used to play HTML5 video across screens.",
+  "version": "0.0.1",
+  "main": [
+    "dist/thr0w-video.css",
+    "dist/thr0w-video.min.js"
+  ],
+  "license": "GPL",
+  "ignore": [],
+  "keywords": [
+    "digital",
+    "signage",
+    "video"
+  ],
+  "authors": [
+    "John Tucker <john@larkintuckerllc.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larkintuckerllc/thr0w-video.git"
+  },
+  "dependencies": {
+    "thr0w-client": "^2.1.0"
+  }
+}
